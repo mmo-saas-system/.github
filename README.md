@@ -47,13 +47,6 @@ Background Processing - Queue workers for polling and async operations
 Webhook Integration - Real-time status updates from providers
 Multi-Provider Support - Flexible provider switching and failover
 Scalable - Designed for horizontal scaling and high availability
-Repository Structure
-tiemtaphoa/
-└── mmo_sms_system/          # Main SaaS platform
-    ├── Backend API (Laravel)
-    ├── Admin Dashboard
-    ├── Docker Infrastructure
-    └── Comprehensive Documentation
 
 Use Cases
 Developers - Integrate SMS verification into applications
